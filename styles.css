@@ -1,0 +1,308 @@
+a{
+    text-decoration: none;
+    color: black;
+
+}
+
+.profileicon{
+    margin-top: 22px;
+}
+
+
+
+
+
+
+body{
+    margin: 0px;
+    display: block;
+    font-family: Francois One;
+}
+
+.div-nav{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    width: 1517px;
+    border-bottom: 1px solid rgb(230, 230, 230);
+    
+    
+}
+button{
+    font-family:  Francois One;
+    font-weight:normal ;
+}
+
+
+
+.navbar-top{
+    display: flex;
+    justify-content: space-around;
+    width: 30%;
+    background-color: rgb(255, 255, 255);
+}
+.navbar-top h4{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.btn-setlocation{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 5px;
+    width: 120px;
+    font-family:  Francois One;
+    font-weight:normal ;
+    border: 0;
+}
+
+.btn-setlocation:hover{
+    cursor: pointer;
+}
+
+
+
+.div-options {
+display: flex;
+background-color: rgb(255, 255, 255);
+width: 50%;
+justify-content: space-around;
+
+
+}
+.div-options h4{
+    font-weight: lighter;
+
+}
+
+.div-options a{
+    text-decoration: none;
+    color: black;
+
+}
+.div-cash{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    width: 20%;
+    justify-content: space-around;
+}
+.div-space{
+    width: 100%;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+    
+}
+.div-nav2{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(255, 255, 255);
+    width: auto;
+}
+.div-third{
+    background-color: rgb(33, 37, 41);
+    height: 68px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    padding-top: 8.5%;
+    
+    
+}
+.thirddivtext{
+   color: white;
+   margin: 0px;
+    
+}
+
+.btn1{
+    background-color: rgb(228, 0, 43);
+    color: white;
+    height: 40px;
+    margin-left: 10px;
+    border-radius: 20px;
+    width: 164px;
+    border: 0;
+}
+.btn1:hover{
+    opacity: 0.8;
+}
+
+
+
+
+.div-hr{
+    margin-left: 280px;
+    background-color: rgb(255, 255, 255);
+    
+    width: 1000px;
+    height: 750px;
+    
+}
+.div-hr img{
+height: 200px;
+width: 268px;
+margin: 0px;
+border-radius: 3px;
+}
+.productcard{
+margin-right: 15px;
+display: block;
+background-color:rgb(248, 247, 245) ;
+border-radius: 3px;
+}
+.productcard:hover{
+cursor: pointer;
+}
+.itemname{
+    padding-top: 20px;
+    height: 48px;
+    width: 268px;
+    background-color: rgb(248, 247, 245);
+    border-radius: 3px;
+}
+.itemname p{
+    margin:0px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.productrow1{
+    display: flex;
+}
+.div-bottom{
+    background-color: rgb(33, 37, 41);
+    height: 1150px;
+}
+
+.exc{
+    margin-left: 280px;
+    margin-bottom: 100px;
+    color: white;
+
+}
+
+.excrow{
+
+margin-left: 280px;
+display: flex;
+}
+
+
+
+.excpic{
+    height: 235px;
+    width: 310px;
+    border-radius: 10px;
+}
+.exccard{
+margin-right: 30px;
+    width: 310px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.exccard:hover{
+    cursor: pointer;
+}
+
+.exccard h2{
+   margin-left: 20px;
+   color: rgb(228, 0, 43);
+    }
+    
+.exccard p{
+    margin:10px;
+     }
+     
+
+.exclrow{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 15px;
+
+}
+h5{
+    font-weight: 1;
+}
+
+.applybutton{
+    height: 46px;
+    width: 163px;
+    border-radius: 50px;
+    margin-bottom: 20px;
+    background-color: white;
+    border: 1px solid black;
+}
+.applybutton:hover{
+    background-color: black;
+    color: white;
+}
+
+
+
+.exclrowtext{
+    font-weight: normal;
+}
+.div-last{
+display: flex;
+justify-content: space-around;
+}
+
+.logo{
+    padding: 60px;
+}
+.detailcard{
+    margin: 10px;
+}
+
+.viewdetails{
+color: white;
+
+}
+
+
+.detailcard h4{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-weight: normal;
+color: white;
+margin-bottom: 7px;
+
+}
+.detailcard h4:hover{
+    cursor: pointer;
+}
+
+.footer-text{
+    font-weight: normal;
+    color: white;
+    text-align: center;
+}
+.bl1{
+    width: 100px;
+    background-color: blue;
+}
+
+.foot{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-img{
+    width: 200px;
+   
+}
+.footspace1{
+    width: 200px;
+   
+}
+.kfclogo{
+    margin-top: 20px;
+}
+
+.profileicon{
+    margin-top: 22px;
+}
